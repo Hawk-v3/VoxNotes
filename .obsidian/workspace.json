@@ -11,12 +11,8 @@
             "id": "683bf5e3728e39e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "History.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,9 @@
   },
   "active": "683bf5e3728e39e5",
   "lastOpenFiles": [
-    "Root Thoughts.md",
+    "README.md",
     "History.md",
+    "Root Thoughts.md",
     "Vox Writing System.md",
     "Linguistics.md",
     "Vox Numbering System.md",
